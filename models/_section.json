@@ -1,4 +1,4 @@
-{
+  {
   "definitions": [
     {
       "title": "Section",
@@ -51,7 +51,8 @@
         "cards",
         "columns",
         "fragment",
-        "adventure-cf"
+        "adventure-cf",
+        "teaser"
       ]
     }
   ]
