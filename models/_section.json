@@ -1,4 +1,4 @@
-{
+  {
   "definitions": [
     {
       "title": "Section",
@@ -50,7 +50,8 @@
         "hero",
         "cards",
         "columns",
-        "fragment"
+        "fragment",
+        "teaser"
       ]
     }
   ]
